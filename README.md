@@ -1,7 +1,7 @@
 # TreviMC
 my new minecraft launcher
 
-please read the following information to start using the launcher:
+please read the following information before using the launcher:
 
 > [!NOTE]
 > do not **expect** proper support for all versions until ~2024 or later
